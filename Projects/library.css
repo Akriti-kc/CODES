@@ -1,0 +1,23 @@
+body{
+    background-color: #3f3f5b;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.form{
+    padding:20px;
+    display: block;
+    margin: auto;
+    width:50%;
+    background-color: white;
+    font-size: larger;
+}
+button{
+    text-align:right;
+    margin-top:30px;
+    margin-left: 200px;
+}
+.hi{
+    color:#0085FF;
+}
